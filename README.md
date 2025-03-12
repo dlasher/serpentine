@@ -2,6 +2,7 @@
 python-based loving nod to the classic commodore game Serpentine
 * requires pygame
 * arrow keys for movement
+* PLAYER is BLUE, ENEMY snakes are RED
 * YELLOW blocks are food - eat them for growth
 * CYAN circles are PLAYER eggs, enemy snakes eat them for growth
 * PINK circles are ENEMY eggs, eat those for points + growth
