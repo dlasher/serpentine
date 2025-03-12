@@ -1,6 +1,11 @@
 # serpentine
 python-based loving nod to the classic commodore game Serpentine
 * requires pygame
+* arrow keys for movement
+* YELLOW blocks are food - eat them for growth
+* CYAN circles are your eggs, enemy snakes eat them
+* PINK circles are ENEMY eggs, eat those for points + growth
+* headfirst into the wall pauses the game, change direction to unpause (it's a feature! Really!)
 
 
 ## serpentine
