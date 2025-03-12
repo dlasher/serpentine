@@ -166,7 +166,7 @@ class Game:
                 detection_range_x = GRID_WIDTH  # Increased X range
                 detection_range_y = GRID_HEIGHT # Increased Y range
             else: # len(enemy.body) >= 3
-                detection_range_x = GRID_WIDTH // 4
+                detection_range_x = GRID_WIDTH // 2
                 detection_range_y = GRID_HEIGHT // 2
 
 
