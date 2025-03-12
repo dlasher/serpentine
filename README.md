@@ -18,8 +18,8 @@ python-based loving nod to the classic commodore game Serpentine
 
 ## serpentine-hard
 * updated rules
-* enemy snakes detect 25% of the screen width/height when normal sized
-* enemy snakes detect 100% of the screen width/height when sized 2 or less
+* enemy snakes detect range for eggs & food is 50% of the screen width/height when normal sized
+* enemy snakes detect range for eggs & food is 100% of the screen width/height when sized 2 or less
 * enemy snakes will chase you when they get your scent (aka your tail)
 * enemy snakes subtract from YOUR length, just like you do from theirs
 * when single enemy snake is left, egg laying timer is cut in half.
