@@ -12,7 +12,7 @@ python-based loving nod to the classic commodore game Serpentine
 
 ## serpentine
 * classic rules
-* enemy snakes can't harm you
+* enemy snakes can't harm your tail (don't hit them head on however)
 * enemy snakes ignore you
 * enemy snakes have a fairly small detection range for eggs & food
 * chomp them till they're gone, you win
